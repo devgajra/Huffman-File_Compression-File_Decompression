@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhay-nosran/Huffman-File_Compression-File_Decompression.git"
+    "url": "git+https://github.com/devgajra/Huffman-File_Compression-File_Decompression.git"
   },
-  "author": "Abhay",
+  "author": "Dev Gajra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhay-nosran/Huffman-File_Compression-File_Decompression/issues"
+    "url": "https://github.com/devgajra/Huffman-File_Compression-File_Decompression/issues"
   },
-  "homepage": "https://github.com/abhay-nosran/Huffman-File_Compression-File_Decompression#readme",
+  "homepage": "https://github.com/devgajra/Huffman-File_Compression-File_Decompression#readme",
   "dependencies": {
     "child_process": "^1.0.2",
     "express": "^4.21.2",
